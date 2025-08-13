@@ -1,5 +1,6 @@
 ## My portfolio
 1. Minesweeper game - https://slavajsfe-react-game.netlify.app
+2. Travel planer = https://rsclone-ryms-travel.netlify.app/
 
 <!--
 **SlavaJSFE/slavajsfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
