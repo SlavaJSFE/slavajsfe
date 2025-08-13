@@ -1,4 +1,5 @@
-## Hi there 👋
+## My portfolio
+1. Minesweeper game - https://slavajsfe-react-game.netlify.app
 
 <!--
 **SlavaJSFE/slavajsfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
